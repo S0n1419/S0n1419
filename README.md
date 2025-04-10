@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Thái Sơn 👋
 
 <!--
 **S0n1419/S0n1419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
